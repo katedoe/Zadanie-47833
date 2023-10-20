@@ -7,6 +7,7 @@
 h1 {
     color: #ff0000;
     font-size: 1.3cm;
+    style="text-align: left"
 }
 
 
@@ -18,5 +19,6 @@ h1 + p {
 p{
     color: #00008f;
     font-size: 1cm;
+    style="text-align: left"
 }
 
